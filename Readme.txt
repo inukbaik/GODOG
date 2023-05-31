@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+EST364 Prototype Website.
 
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is not a commercial website.
